@@ -1,0 +1,25 @@
+languageCode = "ko"
+languageName = "Korean"
+weight = 10
+title = "K92"
+
+[params]
+  displayName = "Korean"
+  isoCode = "ko"
+  rtl = false
+  dateFormat = "2006-01-02 (Mon)"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "GOODJIN"
+  email = "hello@goodjinc.com"
+  image = "img/author.jpg"
+  headline = "1%의 당신으로부터"
+  bio = "1%의 당신으로부터"
+  links = [
+    { email = "mailto:hello@goodjinc.com" },
+    { github = "https://github.com/goodjinc" },
+  ]

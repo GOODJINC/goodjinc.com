@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on K92</title>
+    <link>http://localhost:1313/en/categories/</link>
+    <description>Recent content in Categories on K92</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
+    <copyright>© 2026 GOODJIN</copyright>
+    <lastBuildDate>Mon, 05 Jan 2026 12:00:39 +0300</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blogs</title>
+      <link>http://localhost:1313/en/categories/blogs/</link>
+      <pubDate>Mon, 05 Jan 2026 12:00:39 +0300</pubDate>
+      <author>hello@goodjinc.com (GOODJIN)</author>
+      <guid>http://localhost:1313/en/categories/blogs/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

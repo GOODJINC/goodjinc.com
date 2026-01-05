@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on K92</title>
+    <link>http://localhost:1313/categories/blogs/</link>
+    <description>Recent content in Blogs on K92</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
+    <copyright>© 2026 GOODJIN</copyright>
+    <lastBuildDate>Mon, 05 Jan 2026 12:00:39 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Mon, 05 Jan 2026 12:00:39 +0300</pubDate>
+      <author>hello@goodjinc.com (GOODJIN)</author>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>A short introduction to mention what I intend to do with this website.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
