@@ -22,13 +22,13 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 05 Jan 2026 23:45:12 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;자기소개를 준비중입니다.&#xA;방문해주셔서 감사합니다.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;👋 안녕하세요, GOODJIN입니다.&lt;/p&gt;&#xA;&lt;p&gt;IT에 관심을 가지게 된 지는 얼마 되지 않았지만, 배우고 나아가는 여정 속에서 새로운 가능성을 발견하고 있는 초보 개발자입니다.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.jpg" />
     </item>
     
   </channel>

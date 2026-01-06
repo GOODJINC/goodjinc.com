@@ -1,3 +1,9 @@
+# 전체 로봇 설정
 User-agent: *
 Disallow: /
+
+# Naver Yeti 설정
+User-agent: Yeti
+Disallow: /
+
 Sitemap: http://localhost:1313/sitemap.xml

@@ -22,13 +22,13 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>http://localhost:1313/en/about/</link>
       <pubDate>Mon, 05 Jan 2026 23:45:12 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;p&gt;Thank you for visiting.&#xA;I&amp;rsquo;m preparing my introduction.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;👋 Hello, I’m GOODJIN.&lt;/p&gt;&#xA;&lt;p&gt;I’m a beginner developer who recently developed an interest in IT. Although I’m just starting out, I’m on a journey of learning and growth, discovering new possibilities along the way.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.jpg" />
     </item>
     
   </channel>

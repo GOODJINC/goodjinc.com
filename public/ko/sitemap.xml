@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2026-01-05T12:00:39+03:00</lastmod>
+    <lastmod>2026-01-05T23:58:17+09:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,24 +19,8 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-05T12:00:39+03:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="http://localhost:1313/posts/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-05T12:00:39+03:00</lastmod>
+    <lastmod>2026-01-05T23:58:17+09:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -51,8 +35,24 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-05T23:58:17+09:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="http://localhost:1313/posts/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+    <lastmod>2026-01-05T23:45:12+09:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
