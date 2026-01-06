@@ -17,7 +17,7 @@
       <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;안녕하세요! 드디어 블로그를 시작하게 되었습니다. 🎉&#xA;이곳은 제가 배우고 경험한 것들을 기록하고, 여러분과 함께 나누기 위해 만든 공간입니다.&#xA;블로그를 통해 개발, IT, 그리고 제가 진행 중인 프로젝트에 대한 이야기들을 공유할 예정입니다.&#xA;아직은 많&lt;/p&gt;</description>
+      <description>&lt;p&gt;안녕하세요! 드디어 블로그를 시작하게 되었습니다. 🎉&lt;/p&gt;&#xA;&lt;p&gt;이곳은 제가 배우고 경험한 것들을 기록하고, 여러분과 함께 나누기 위해 만든 공간입니다.&lt;/p&gt;&#xA;&lt;p&gt;블로그를 통해 개발, IT, 그리고 제가 진행 중인 프로젝트에 대한 이야기들을 공유할 예정입니다.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/feature.png" />
     </item>
     

@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Hello world! 👋</title>
+      <link>http://localhost:1313/en/posts/hello-world/</link>
+      <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJIN)</author>
+      <guid>http://localhost:1313/en/posts/hello-world/</guid>
+      <description>A short welcome post announcing the start of the blog, where I’ll share ongoing learnings and experiences in development, IT, and current projects.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/feature.png" />
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>http://localhost:1313/en/about/</link>
       <pubDate>Mon, 05 Jan 2026 23:45:12 +0900</pubDate>
