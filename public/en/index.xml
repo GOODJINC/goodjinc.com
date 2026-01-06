@@ -12,12 +12,12 @@
     <lastBuildDate>Mon, 05 Jan 2026 23:58:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hello World</title>
+      <title>Hello world! 👋</title>
       <link>http://localhost:1313/en/posts/hello-world/</link>
       <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/posts/hello-world/</guid>
-      <description>A short introduction to mention what I intend to do with this website.</description>
+      <description>A short welcome post announcing the start of the blog, where I’ll share ongoing learnings and experiences in development, IT, and current projects.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/feature.png" />
     </item>
     
@@ -27,7 +27,7 @@
       <pubDate>Mon, 05 Jan 2026 23:45:12 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;p&gt;👋 Hello, I’m GOODJIN.&lt;/p&gt;&#xA;&lt;p&gt;I’m a beginner developer who recently developed an interest in IT. Although I’m just starting out, I’m on a journey of learning and growth, discovering new possibilities along the way.&lt;/p&gt;</description>
+      <description>&lt;p&gt;👋 Hello, I’m GOODJIN.&lt;/p&gt;&#xA;&lt;p&gt;I’m a beginner developer who recently developed an interest in IT. Although I’m just starting out, I’m on a journey of learning and growth, discovering new possibilities along the way.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;&lt;strong&gt;My Journey 🌱&lt;/strong&gt;&lt;/strong&gt;&#xD;&#xA;    &lt;div id=&#34;my-journey-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;I’ve recently started learning Flutter and other technologies to dive into the world of development. While I still have a lot to learn, I’m taking steady steps toward my goal of creating apps that provide practical value in everyday life. Through technology and continuous learning, I hope to connect with more people and bring positive changes to life.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.jpg" />
     </item>
     

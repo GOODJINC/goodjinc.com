@@ -12,12 +12,12 @@
     <lastBuildDate>Mon, 05 Jan 2026 23:58:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hello World</title>
+      <title>Hello world! 👋</title>
       <link>http://localhost:1313/en/posts/hello-world/</link>
       <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/posts/hello-world/</guid>
-      <description>A short introduction to mention what I intend to do with this website.</description>
+      <description>A short welcome post announcing the start of the blog, where I’ll share ongoing learnings and experiences in development, IT, and current projects.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/feature.png" />
     </item>
     
