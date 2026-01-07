@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
-    <lastmod>2026-01-05T23:58:17+09:00</lastmod>
+    <loc>http://localhost:1313/posts/hugo-install-windows/</loc>
+    <lastmod>2026-01-06T22:28:03+09:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/posts/hello-world/"
+      href="http://localhost:1313/en/posts/hugo-install-windows/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="http://localhost:1313/posts/hello-world/"
+      href="http://localhost:1313/posts/hugo-install-windows/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-05T23:58:17+09:00</lastmod>
+    <lastmod>2026-01-06T22:28:03+09:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,7 +36,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-05T23:58:17+09:00</lastmod>
+    <lastmod>2026-01-06T22:28:03+09:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -48,6 +48,22 @@
       rel="alternate"
       hreflang="ko"
       href="http://localhost:1313/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <lastmod>2026-01-05T23:58:17+09:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/hello-world/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="http://localhost:1313/posts/hello-world/"
     />
   </url>
   <url>

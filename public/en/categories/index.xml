@@ -9,22 +9,12 @@
     <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
     <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
     <copyright>© 2026 GOODJIN</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 23:58:17 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Blogs</title>
-      <link>http://localhost:1313/en/categories/blogs/</link>
-      <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
-      <guid>http://localhost:1313/en/categories/blogs/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 22:28:03 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DevOps</title>
       <link>http://localhost:1313/en/categories/devops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 22:28:03 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/categories/devops/</guid>
       <description></description>
@@ -34,9 +24,19 @@
     <item>
       <title>Tutorial</title>
       <link>http://localhost:1313/en/categories/tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 22:28:03 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/categories/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>http://localhost:1313/en/categories/blogs/</link>
+      <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJIN)</author>
+      <guid>http://localhost:1313/en/categories/blogs/</guid>
       <description></description>
       
     </item>

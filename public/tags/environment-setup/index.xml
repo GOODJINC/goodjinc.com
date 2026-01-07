@@ -9,7 +9,17 @@
     <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
     <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
     <copyright>© 2026 GOODJIN</copyright>
-    <atom:link href="http://localhost:1313/tags/environment-setup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jan 2026 22:28:03 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/environment-setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo 블로그 만들기: 개발 환경 구축</title>
+      <link>http://localhost:1313/posts/hugo-install-windows/</link>
+      <pubDate>Tue, 06 Jan 2026 22:28:03 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJIN)</author>
+      <guid>http://localhost:1313/posts/hugo-install-windows/</guid>
+      <description>&lt;p&gt;개발을 막 시작하는 입장에서 나만의 지식과 경험을 정리하고 공유할 공간이 필요했습니다. 왜냐면 저 역시 많은 지식들을 다른 분들에게서 얻었기 때문입니다.&lt;/p&gt;&#xA;&lt;p&gt;네이버 블로그(Naver Blog)나 티스토리(Tistory), 벨로그(Velog) 등 많은 플랫폼들이 있지만, 커스터마이징의 한계와 데이터 소유권을 온전히 내가 가지고 싶다는 욕심에 &lt;strong&gt;정적 사이트 생성기(SSG, Static Site Generator)&lt;/strong&gt; 인 &lt;strong&gt;Hugo&lt;/strong&gt;를 선택하게 되었습니다.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-install-windows/feature.png" />
+    </item>
     
   </channel>
 </rss>

@@ -7,7 +7,7 @@ description: A guide to installing the Hugo Extended version on Windows and sett
 # series_order: 1
 categories: ["DevOps", "Tutorial"]
 tags: ["Hugo", "Windows", "Environment Setup", "SSG"]
-draft: true
+draft: false
 ---
 
 As I began my journey into development, I realized I needed a space to organize and share my knowledge and experiences. After all, I have learned so much from others myself.
