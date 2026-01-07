@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on K92</title>
+    <title>Categories on GOODJINC</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on K92</description>
+    <description>Recent content in Categories on GOODJINC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
-    <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
-    <copyright>© 2026 GOODJIN</copyright>
+    <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
+    <copyright>© 2026 GOODJINC</copyright>
     <lastBuildDate>Wed, 07 Jan 2026 12:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo</title>
       <link>http://localhost:1313/categories/hugo/</link>
       <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/categories/hugo/</guid>
       <description></description>
       
@@ -25,7 +25,7 @@
       <title>Tutorial</title>
       <link>http://localhost:1313/categories/tutorial/</link>
       <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/categories/tutorial/</guid>
       <description></description>
       
@@ -35,7 +35,7 @@
       <title>Web Development</title>
       <link>http://localhost:1313/categories/web-development/</link>
       <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/categories/web-development/</guid>
       <description></description>
       
@@ -45,7 +45,7 @@
       <title>DevOps</title>
       <link>http://localhost:1313/categories/devops/</link>
       <pubDate>Tue, 06 Jan 2026 22:28:03 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/categories/devops/</guid>
       <description></description>
       
@@ -55,7 +55,7 @@
       <title>Blogs</title>
       <link>http://localhost:1313/categories/blogs/</link>
       <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/categories/blogs/</guid>
       <description></description>
       

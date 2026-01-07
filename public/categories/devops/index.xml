@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevOps on K92</title>
+    <title>DevOps on GOODJINC</title>
     <link>http://localhost:1313/categories/devops/</link>
-    <description>Recent content in DevOps on K92</description>
+    <description>Recent content in DevOps on GOODJINC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
-    <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
-    <copyright>© 2026 GOODJIN</copyright>
+    <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
+    <copyright>© 2026 GOODJINC</copyright>
     <lastBuildDate>Tue, 06 Jan 2026 22:28:03 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo 블로그 만들기 (1): 개발 환경 구축</title>
       <link>http://localhost:1313/posts/hugo-install-windows/</link>
       <pubDate>Tue, 06 Jan 2026 22:28:03 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/posts/hugo-install-windows/</guid>
       <description>&lt;p&gt;개발을 막 시작하는 입장에서 나만의 지식과 경험을 정리하고 공유할 공간이 필요했습니다. 왜냐면 저 역시 많은 지식들을 다른 분들에게서 얻었기 때문입니다.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-install-windows/feature.png" />

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Environment Setup on K92</title>
+    <title>Environment Setup on GOODJINC</title>
     <link>http://localhost:1313/en/tags/environment-setup/</link>
-    <description>Recent content in Environment Setup on K92</description>
+    <description>Recent content in Environment Setup on GOODJINC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
-    <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
-    <copyright>© 2026 GOODJIN</copyright>
+    <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
+    <copyright>© 2026 GOODJINC</copyright>
     <lastBuildDate>Tue, 06 Jan 2026 22:28:03 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/tags/environment-setup/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building a Hugo Blog (1): Setting Up the Development Environment</title>
       <link>http://localhost:1313/en/posts/hugo-install-windows/</link>
       <pubDate>Tue, 06 Jan 2026 22:28:03 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/en/posts/hugo-install-windows/</guid>
       <description>&lt;p&gt;As I began my journey into development, I realized I needed a space to organize and share my knowledge and experiences. After all, I have learned so much from others myself.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-install-windows/feature.png" />

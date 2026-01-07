@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Config on K92</title>
+    <title>Config on GOODJINC</title>
     <link>http://localhost:1313/en/tags/config/</link>
-    <description>Recent content in Config on K92</description>
+    <description>Recent content in Config on GOODJINC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
-    <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
-    <copyright>© 2026 GOODJIN</copyright>
+    <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
+    <copyright>© 2026 GOODJINC</copyright>
     <lastBuildDate>Wed, 07 Jan 2026 12:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/tags/config/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building a Hugo Blog (2): Creating a Project &amp; Applying the Blowfish Theme</title>
       <link>http://localhost:1313/en/posts/hugo-project-theme/</link>
       <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/en/posts/hugo-project-theme/</guid>
       <description>&lt;p&gt;In Part 1, we completed the installation of Hugo (Extended version) on the Windows environment. Now, let&amp;rsquo;s officially create a blog and apply the &lt;strong&gt;Blowfish&lt;/strong&gt; theme.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;1. Creating a New Hugo Project&#xD;&#xA;    &lt;div id=&#34;1-creating-a-new-hugo-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-creating-a-new-hugo-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Navigate to your desired folder (e.g., &lt;code&gt;C:\Project&lt;/code&gt;) and run the command below in your terminal to create a new site. I named the blog &lt;code&gt;my-blog&lt;/code&gt;.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-project-theme/feature.jpg" />

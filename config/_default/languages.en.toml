@@ -1,18 +1,19 @@
 languageCode = "en"
 languageName = "EN"
 weight = 20
-title = "K92"
+title = "GOODJINC"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2006-01-02 (Mon)"
-#  logo = "img/blowfish_logo_transparent.png"
-#  description = "A powerful, lightweight theme for Hugo."
+  logo = "img/logo_white.png"
+  secondaryLogo = "img/logo_black.png"
+  description = "GOODJINC’s Archive: Believing in the power of records."
 
 [params.author]
-  name = "GOODJIN"
+  name = "GOODJINC"
   email = "hello@goodjinc.com"
   image = "img/author.jpg"
   headline = "Little by little, one travels far"

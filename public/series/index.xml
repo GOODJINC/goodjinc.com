@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on K92</title>
+    <title>Series on GOODJINC</title>
     <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on K92</description>
+    <description>Recent content in Series on GOODJINC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
-    <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
-    <copyright>© 2026 GOODJIN</copyright>
+    <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
+    <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
+    <copyright>© 2026 GOODJINC</copyright>
     <lastBuildDate>Wed, 07 Jan 2026 12:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo 블로그 만들기</title>
       <link>http://localhost:1313/series/hugo-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
       <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJIN)</author>
+      <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/series/hugo-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</guid>
       <description></description>
       

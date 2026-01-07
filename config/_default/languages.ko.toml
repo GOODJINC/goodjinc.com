@@ -1,20 +1,19 @@
 languageCode = "ko"
 languageName = "Korean"
 weight = 10
-title = "K92"
+title = "GOODJINC"
 
 [params]
   displayName = "Korean"
   isoCode = "ko"
   rtl = false
   dateFormat = "2006-01-02 (Mon)"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  logo = "img/logo_white.png"
+  secondaryLogo = "img/logo_black.png"
+  description = "기록의 힘을 믿는 GOODJINC의 아카이브 공간입니다."
 
 [params.author]
-  name = "GOODJIN"
+  name = "GOODJINC"
   email = "hello@goodjinc.com"
   image = "img/author.jpg"
   headline = "1%의 당신으로부터"
