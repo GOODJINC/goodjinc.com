@@ -1,10 +1,10 @@
 ---
-title: "Building a Hugo Blog: Setting Up the Development Environment"
+title: "Building a Hugo Blog (1): Setting Up the Development Environment"
 slug: hugo-install-windows
 date: 2026-01-06T22:28:03+09:00
 description: A guide to installing the Hugo Extended version on Windows and setting up a blog development environment.
-# series: Building a Hugo Blog
-# series_order: 1
+series: ["Building a Hugo Blog"]
+series_order: 1
 categories: ["DevOps", "Tutorial"]
 tags: ["Hugo", "Windows", "Environment Setup", "SSG"]
 draft: false

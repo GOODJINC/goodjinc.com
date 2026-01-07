@@ -9,7 +9,17 @@
     <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
     <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
     <copyright>© 2026 GOODJIN</copyright>
-    <atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jan 2026 12:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Hugo Blog</title>
+      <link>http://localhost:1313/en/series/building-a-hugo-blog/</link>
+      <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJIN)</author>
+      <guid>http://localhost:1313/en/series/building-a-hugo-blog/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

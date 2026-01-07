@@ -9,15 +9,25 @@
     <managingEditor>hello@goodjinc.com (GOODJIN)</managingEditor>
     <webMaster>hello@goodjinc.com (GOODJIN)</webMaster>
     <copyright>© 2026 GOODJIN</copyright>
-    <lastBuildDate>Tue, 06 Jan 2026 22:28:03 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jan 2026 12:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Building a Hugo Blog: Setting Up the Development Environment</title>
+      <title>Building a Hugo Blog (2): Creating a Project &amp; Applying the Blowfish Theme</title>
+      <link>http://localhost:1313/en/posts/hugo-project-theme/</link>
+      <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJIN)</author>
+      <guid>http://localhost:1313/en/posts/hugo-project-theme/</guid>
+      <description>&lt;p&gt;In Part 1, we completed the installation of Hugo (Extended version) on the Windows environment. Now, let&amp;rsquo;s officially create a blog and apply the &lt;strong&gt;Blowfish&lt;/strong&gt; theme.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;1. Creating a New Hugo Project&#xD;&#xA;    &lt;div id=&#34;1-creating-a-new-hugo-project&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-creating-a-new-hugo-project&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Navigate to your desired folder (e.g., &lt;code&gt;C:\Project&lt;/code&gt;) and run the command below in your terminal to create a new site. I named the blog &lt;code&gt;my-blog&lt;/code&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-project-theme/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Building a Hugo Blog (1): Setting Up the Development Environment</title>
       <link>http://localhost:1313/en/posts/hugo-install-windows/</link>
       <pubDate>Tue, 06 Jan 2026 22:28:03 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/posts/hugo-install-windows/</guid>
-      <description>&lt;p&gt;As I began my journey into development, I realized I needed a space to organize and share my knowledge and experiences. After all, I have learned so much from others myself.&lt;/p&gt;&#xA;&lt;p&gt;While there are many platforms available—such as Naver Blog, Tistory, and Velog—I chose &lt;strong&gt;Hugo&lt;/strong&gt;, a &lt;strong&gt;Static Site Generator (SSG)&lt;/strong&gt;, because of the limitations in customization on those platforms and my desire to have complete ownership of my data.&lt;/p&gt;&#xA;&lt;p&gt;This series will document the process of creating a Hugo blog, including the trial and error I encountered. I plan to record the entire process: from setting up the &lt;strong&gt;Hugo&lt;/strong&gt; environment and applying the &lt;strong&gt;Blowfish theme&lt;/strong&gt;, to deploying via &lt;strong&gt;Cloudflare Pages&lt;/strong&gt; with a custom domain.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As I began my journey into development, I realized I needed a space to organize and share my knowledge and experiences. After all, I have learned so much from others myself.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-install-windows/feature.png" />
     </item>
     
@@ -37,7 +47,7 @@
       <pubDate>Mon, 05 Jan 2026 23:45:12 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJIN)</author>
       <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;p&gt;👋 Hello, I’m GOODJIN.&lt;/p&gt;&#xA;&lt;p&gt;I’m a beginner developer who recently developed an interest in IT. Although I’m just starting out, I’m on a journey of learning and growth, discovering new possibilities along the way.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;&lt;strong&gt;My Journey 🌱&lt;/strong&gt;&lt;/strong&gt;&#xD;&#xA;    &lt;div id=&#34;my-journey-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;I’ve recently started learning Flutter and other technologies to dive into the world of development. While I still have a lot to learn, I’m taking steady steps toward my goal of creating apps that provide practical value in everyday life. Through technology and continuous learning, I hope to connect with more people and bring positive changes to life.&lt;/p&gt;</description>
+      <description>&lt;p&gt;👋 Hello, I’m GOODJIN.&lt;/p&gt;&#xA;&lt;p&gt;I’m a beginner developer who recently developed an interest in IT. Although I’m just starting out, I’m on a journey of learning and growth, discovering new possibilities along the way.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/feature.jpg" />
     </item>
     

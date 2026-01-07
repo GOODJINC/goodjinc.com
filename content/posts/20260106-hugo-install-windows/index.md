@@ -1,10 +1,10 @@
 ---
-title: "Hugo 블로그 만들기: 개발 환경 구축"
+title: "Hugo 블로그 만들기 (1): 개발 환경 구축"
 slug: hugo-install-windows
 date: 2026-01-06T22:28:03+09:00
 description: 윈도우(Windows) 환경에서 Hugo Extended 버전을 설치하고 블로그 개발 환경을 구축하는 방법을 다룹니다.
-# series: Hugo 블로그 만들기
-# series_order: 1
+series: ["Hugo 블로그 만들기"]
+series_order: 1
 categories: ["DevOps", "Tutorial"]
 tags: ["Hugo", "Windows", "Environment Setup", "SSG"]
 draft: false
