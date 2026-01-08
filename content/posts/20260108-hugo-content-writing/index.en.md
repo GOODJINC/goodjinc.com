@@ -1,13 +1,13 @@
 ---
 title: "Building a Hugo Blog (4): Content Writing and Markdown Shortcodes"
 slug: "hugo-content-writing"
-date: 2026-01-08T18:20:00+09:00
+date: 2026-01-08T20:30:00+09:00
 description: "Learn how to efficiently manage images using Hugo's Page Bundle method and enrich your posts using the powerful shortcodes (Alert, Badge, etc.) provided by the Blowfish theme."
 series: ["Building a Hugo Blog"]
 series_order: 4
 categories: ["Writing", "Guide"]
 tags: ["Markdown", "Front Matter", "Content"]
-draft: true
+draft: false
 # Thumbnail : https://pixabay.com/photos/typing-apple-computer-computer-desk-4156011/
 ---
 
@@ -94,12 +94,12 @@ For example, copy an image (e.g., universe.jpg) into the img folder of your hell
 ![Space Photo](img/universe.jpg)
 
 <!--Example 2:-->
-![Space Photo](img/universe.jpg "Image [by Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)")
+![Space Photo](img/universe.jpg "Image [by Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/illustrations/universe-sky-stars-space-cosmos-2742113/)")
 ```
 
 **Result with caption:**
 
-![Space Photography](img/universe.jpg "Image [byGerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2742113) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2742113)")
+![Space Photography](img/universe.jpg "Image [by Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/illustrations/universe-sky-stars-space-cosmos-2742113/)")
 
 ---
 
@@ -179,20 +179,20 @@ def hello():
 
 ## 5. Live Preview
 
-If you keep hugo server running in your terminal while writing or editing, the site will automatically refresh and show the results every time you save your file (Ctrl + S).
+If you keep `hugo server` running in your terminal while writing or editing, the site will automatically refresh and show the results every time you save your file (`Ctrl + S`).
 
-{{< alert >}} Note 1: If your post doesn't appear after running hugo server, it’s likely because the draft value in the Front Matter is set to true. To view draft posts, run the server with the hugo server -D command, or simply change draft to false. {{< /alert >}}
+{{< alert >}} Note 1: If your post doesn't appear after running `hugo server`, it’s likely because the `draft` value in the Front Matter is set to `true`. To view draft posts, run the server with the `hugo server -D` command, or simply change `draft` to `false`. {{< /alert >}}
 
 </br>
 
-{{< alert icon="fire" cardColor="#db2f3dff" iconColor="#ffffff" textColor="#ffffff" >}} Note 2: If the post creation time is set to a future time relative to the build date, the post may not be visible. You can set the time to the past or configure buildFuture = true in your config/_default/hugo.toml file. {{< /alert >}}
+{{< alert icon="fire" cardColor="#db2f3dff" iconColor="#ffffff" textColor="#ffffff" >}} Note 2: If the post creation time is set to a future time relative to the build date, the post may not be visible. You can set the time to the past or configure `buildFuture = true` in your `config/_default/hugo.toml` file. {{< /alert >}}
 
 ---
 
 ## 6. Closing
 
-You have now learned how to write and style your content. You should see your blog coming together nicely on localhost:1313.
+You have now learned how to write and style your content. You should see your blog coming together nicely on `localhost:1313`.
 
 I will continue to introduce more ways to customize your blog in future posts.
 
-In the next part, I will show you how to deploy your blog so that others can access it.
+In the next part, I will show you **how to deploy your blog** so that others can access it.

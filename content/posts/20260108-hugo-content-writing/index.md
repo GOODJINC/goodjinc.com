@@ -1,19 +1,19 @@
 ---
 title: "Hugo 블로그 만들기 (4): 콘텐츠 작성과 마크다운 숏코드 활용"
 slug: "hugo-content-writing"
-date: 2026-01-08T18:20:00+09:00
+date: 2026-01-08T20:30:00+09:00
 description: "Hugo의 Page Bundle 방식을 이용해 이미지를 효율적으로 관리하고, Blowfish 테마의 강력한 숏코드(Alert, Badge 등)를 활용해 풍성한 글을 작성해 봅니다."
 series: ["Hugo 블로그 만들기"]
 series_order: 4
 categories: ["Writing", "Guide"]
 tags: ["Markdown", "Front Matter", "Content"]
-draft: true
+draft: false
 # Thumbnail : https://pixabay.com/photos/typing-apple-computer-computer-desk-4156011/
 ---
 
 지난 시간까지 블로그의 뼈대를 세우고 예쁘게 꾸미는 작업을 마쳤습니다. 이제 이 멋진 집에 가구를 채워 넣을 시간입니다. 바로 **콘텐츠 작성**입니다.
 
-Hugo는 마크다운(Markdown) 형식을 기반으로 글을 작성합니다. 네이버 블로그나 티스토리 같은 에디터(WYSIWYG)가 없어 처음에는 낯설 수 있지만, 익숙해지면 코드와 글을 함께 다루는 개발자에게 이보다 더 편한 환경은 없습니다.
+Hugo는 마크다운(Markdown) 형식을 기반으로 글을 작성합니다. 네이버 블로그나 티스토리 같은 위지윅 에디터(WYSIWYG)가 없지만 다양한 응용이 가능하고 확장성이 좋다는 장점이 있는 것 같습니다.
 
 오늘은 Hugo 방식의 글쓰기 규칙과, 글을 더 이쁘게 꾸며주는 Blowfish 테마의 **숏코드(Shortcodes)** 기능을 알아보겠습니다.
 
@@ -98,12 +98,12 @@ draft: true
 
 <!-- 캡션을 활용하여 이미지와 이미지 설명 문구도 함께 표현
 기본형식 : ![이미지 설명](이미지 경로 "캡션 문구")-->
-![우주 사진](img/universe.jpg "Image [byGerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2742113) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2742113)")
+![우주 사진](img/universe.jpg "Image [by Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/illustrations/universe-sky-stars-space-cosmos-2742113/)")
 ```
 
 **이미지와 캡션을 함께 표현한 결과 :**
 
-![우주 사진](img/universe.jpg "Image [byGerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2742113) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2742113)")
+![우주 사진](img/universe.jpg "Image [by Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/illustrations/universe-sky-stars-space-cosmos-2742113/)")
 
 ---
 
@@ -162,6 +162,7 @@ draft: true
 개발 블로그의 핵심이죠. 언어를 지정하면 하이라이팅이 적용됩니다. 제가 가장 많이 사용하는 숏코드입니다.
 
 **작성 코드:**
+
 ````Plaintext
 ```python
 def hello():
