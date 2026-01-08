@@ -14,6 +14,8 @@ draft: false
 
 지난 1편에서 윈도우 환경에 Hugo(Extended 버전) 설치까지 완료했습니다. 이제 본격적으로 나만의 블로그를 만들고, **Blowfish**테마를 적용해보도록 하겠습니다.
 
+---
+
 ## 1. 새 Hugo 프로젝트 생성
 
 원하는 폴더(예: `C:\Project`)로 이동한 뒤, 터미널에서 아래 명령어를 입력하여 새로운 사이트를 생성합니다. 블로그 이름을 `my-blog`로 정했습니다.
@@ -38,6 +40,8 @@ cd my-blog
 - static 폴더: 이미지, robots.txt 등 정적 파일 보관소
 - layouts 폴더: 테마를 내 입맛대로 수정할 때 쓰는 오버라이드 폴더
 
+---
+
 ## 2. Git 초기화 (Git Init)
 
 Hugo는 Git 사용을 적극 권장하고 있습니다. 그리고 대부분의 테마들이 Git을 통해 배포하고 있기 때문에 Git을 사용해줍니다.
@@ -49,6 +53,8 @@ git init
 ```
 
 이 단계가 선행되어야 나중에 테마를 Submodule 방식으로 관리할 수 있습니다.
+
+---
 
 ## 3. Blowfish 테마 설치하기
 
@@ -70,6 +76,8 @@ git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blo
 {{< figure src="img/git-theme-submodule.png" alt="Command Result: git submodule" >}}
 
 {{< alert type="info" >}} 테마 파일을 직접 복사해 넣을수도 있지만, 나중에 테마 개발자가 버그를 수정하거나 새 기능을 추가했을 때 업데이트하기가 매우 번거롭습니다. Submodule을 쓰면 명령어 한 줄로 테마를 최신 상태로 유지할 수 있기 때문에 Submodule 방식을 선택했습니다. {{< /alert >}}
+
+---
 
 ## 4. 기본 설정
 
@@ -97,6 +105,8 @@ theme = "blowfish"
 
 {{< figure src="img/edit-hugo-toml-theme.png" alt="Edit hugo.toml" >}}
 
+---
+
 ## 5. Hugo 서버 실행
 
 기본적인 모든 준비는 끝났기 때문에 정상적으로 블로그가 실행되는지 터미널에서 아래 명령어를 입력하여 로컬 서버를 실행해봅니다.
@@ -108,6 +118,8 @@ hugo server
 브라우저를 열고 http://localhost:1313/ 에 접속해 보세요. Blowfish 테마의 기본 레이아웃이 보인다면 성공입니다.
 
 {{< figure src="img/run-blowfish-server.png" alt="Run Hugo Blowfish Blog Server" >}}
+
+---
 
 ## 6. 마치며
 

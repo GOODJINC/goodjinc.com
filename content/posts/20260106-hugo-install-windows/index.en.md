@@ -18,6 +18,8 @@ This series will document the process of creating a Hugo blog, including the tri
 
 First, here is how to set up the development environment on Windows 11.
 
+---
+
 ## 1. Why I Chose Hugo
 
 - **Unrivaled Speed:** Written in Go, its build speed is vastly superior to other SSGs (like Jekyll or Hexo).

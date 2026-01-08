@@ -15,16 +15,18 @@ In the previous part, we successfully applied the Blowfish theme and launched th
 
 In this post, I will introduce how to customize your blog to your liking. While I am also in the process of testing and applying these settings one by one, I will cover the fundamental configuration methods.
 
+---
+
 ## 1. Understanding the Configuration File Structure
 
 Most Hugo themes manage the majority of their settings within a single `hugo.toml` file. However, Blowfish splits these configurations into multiple files for better maintainability.
 
 If you navigate to the `config/_default/` folder, you will see the following files:
 
-* **hugo.toml**: Basic site information (URL, Title, Theme designation).
-* **languages.toml**: Language-specific settings (Korean, English, etc.).
-* **menus.toml**: Configuration for the Header and Footer menus.
-* **params.toml**: General theme settings, including design, profiles, and feature toggles.
+- **hugo.toml**: Basic site information (URL, Title, Theme designation).
+- **languages.toml**: Language-specific settings (Korean, English, etc.).
+- **menus.toml**: Configuration for the Header and Footer menus.
+- **params.toml**: General theme settings, including design, profiles, and feature toggles.
 
 We will modify these four files step by step.
 
@@ -85,6 +87,7 @@ The `displayName` allows you to set the name displayed in the language list, and
 
 {{< figure src="img/languages-setting-result.png" alt="Languages Setting Result" >}}
 
+---
 
 ## 3. Profile and Design Settings
 
@@ -141,6 +144,8 @@ The profile set here is used in various places, including the homepage and the a
 
 {{< figure src="img/author-profile-setting-result-en.png" alt="Author Profile Setting Result" >}}
 
+---
+
 ## 4. Configuring Menus
 
 Let's add items to the Header menu bar. Edit the `menus.ko.toml` file as follows:
@@ -185,6 +190,8 @@ If you want to add a menu to the bottom of the website, add the following code t
   weight = 20
 ```
 
+---
+
 ## 5. Verifying the Results
 
 Once you have finished all modifications, run the server by typing `hugo server` in your terminal.
@@ -192,6 +199,8 @@ Once you have finished all modifications, run the server by typing `hugo server`
 If the server was already running, the changes should reflect automatically. If an ERROR occurs, try restarting the server.
 
 Check the main page to ensure all modified parts are correctly reflected. Since we haven't written any posts yet, some menus or content sections might appear empty.
+
+---
 
 ## 6. Closing
 

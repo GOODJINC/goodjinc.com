@@ -15,16 +15,18 @@ draft: false
 
 이번 시간에는 블로그를 내가 원하는대로 커스터마이징하는 방법을 소개합니다. 저도 아직 하나씩 적용해보고 테스트해보는 입장이지만 기본적인 설정 방법에 대해 소개합니다.
 
+---
+
 ## 1. 설정 파일의 구조 이해하기
 
 일반적인 Hugo 테마는 `hugo.toml` 파일 하나에 대부분의 설정을 작성합니다. 하지만 Blowfish는 설정 관리를 편하게 하기 위해 파일을 쪼개서 관리합니다.
 
 `config/_default/` 폴더를 열어보면 다음과 같은 파일들이 보일 것입니다.
 
-* **hugo.toml**: 사이트의 가장 기본 정보 (URL, 타이틀, 테마 지정)
-* **languages.toml**: 언어 설정 (한국어, 영어 등)
-* **menus.toml**: 상단 메뉴(Header)와 하단 메뉴(Footer) 설정
-* **params.toml**: 디자인, 프로필, 기능 켜기/끄기 등 **일반적인 테마에 대한 설정**
+- **hugo.toml**: 사이트의 가장 기본 정보 (URL, 타이틀, 테마 지정)
+- **languages.toml**: 언어 설정 (한국어, 영어 등)
+- **menus.toml**: 상단 메뉴(Header)와 하단 메뉴(Footer) 설정
+- **params.toml**: 디자인, 프로필, 기능 켜기/끄기 등 **일반적인 테마에 대한 설정**
 
 저희는 이 4가지 파일을 조금씩 수정해보겠습니다.
 
@@ -83,6 +85,8 @@ title = "GOODJINC"
 
 {{< figure src="img/languages-setting-result.png" alt="Languages Setting Result" >}}
 
+---
+
 ## 3. 프로필 및 디자인 설정
 
 블로그 메인 화면에 들어갔을 때 가장 먼저 보이는 프로필 사진과 소개 글을 수정해 봅시다. 이 설정은 `params.toml`에서 담당합니다.
@@ -140,6 +144,7 @@ colorScheme = "github"
 
 {{< figure src="img/author-profile-setting-result-ko.png" alt="Author Profile Setting Result" >}}
 
+---
 
 ## 4. 메뉴 구성하기
 
@@ -185,6 +190,8 @@ colorScheme = "github"
    weight = 20
 ```
 
+---
+
 ## 5. 결과 확인
 
 모든 수정을 마쳤다면 터미널에서 `hugo server`를 작성하여 실행해봅니다.
@@ -194,6 +201,8 @@ colorScheme = "github"
 웹사이트 메인 페이지에 수정된 부분이 잘 반영되었는지 확인해봅니다.
 
 아직 게시글을 작성하지 않았기 때문에 글이 보이거나 메뉴 이동에 제한이 있을 수 있습니다.
+
+---
 
 ## 6. 마치며
 

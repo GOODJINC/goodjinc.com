@@ -14,6 +14,8 @@ draft: false
 
 In Part 1, we completed the installation of Hugo (Extended version) on the Windows environment. Now, let's officially create a blog and apply the **Blowfish** theme.
 
+---
+
 ## 1. Creating a New Hugo Project
 
 Navigate to your desired folder (e.g., `C:\Project`) and run the command below in your terminal to create a new site. I named the blog `my-blog`.
@@ -38,6 +40,8 @@ cd my-blog
 - static folder: Storage for static files like images and robots.txt.
 - layouts folder: An override folder used when modifying the theme to your liking.
 
+---
+
 ## 2. Git Initialization (Git Init)
 
 Hugo strongly recommends using Git. Also, since most themes are distributed via Git, we will use it as well.
@@ -49,6 +53,8 @@ git init
 ```
 
 This step is a prerequisite for managing the theme as a Submodule later.
+
+---
 
 ## 3. Installing the Blowfish Theme
 
@@ -68,6 +74,8 @@ git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blo
 {{< figure src="img/git-theme-submodule.png" alt="Command Result: git submodule" >}}
 
 {{< alert type="info" >}} You can copy the theme files directly, but it becomes very cumbersome to update when the theme developer fixes bugs or adds new features later. I chose the Submodule method because it allows you to keep the theme up-to-date with a single command. {{< /alert >}}
+
+---
 
 ## 4. Basic Configuration
 
@@ -95,6 +103,8 @@ theme = "blowfish"
 
 {{< figure src="img/edit-hugo-toml-theme.png" alt="Edit hugo.toml" >}}
 
+---
+
 ## 5. Running the Hugo Server
 
 Since all basic preparations are done, let's run the local server by entering the command below in the terminal to verify that the blog is working correctly.
@@ -106,6 +116,8 @@ hugo server
 Open your browser and visit http://localhost:1313/. If you see the basic layout of the Blowfish theme, you have succeeded.
 
 {{< figure src="img/run-blowfish-server.png" alt="Run Hugo Blowfish Blog Server" >}}
+
+---
 
 ## 6. Wrap Up
 
