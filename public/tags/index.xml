@@ -9,7 +9,57 @@
     <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
     <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
     <copyright>© 2026 GOODJINC</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 12:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jan 2026 08:40:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://localhost:1313/tags/configuration/</link>
+      <pubDate>Thu, 08 Jan 2026 08:40:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/tags/configuration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>I18n</title>
+      <link>http://localhost:1313/tags/i18n/</link>
+      <pubDate>Thu, 08 Jan 2026 08:40:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/tags/i18n/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Menu</title>
+      <link>http://localhost:1313/tags/menu/</link>
+      <pubDate>Thu, 08 Jan 2026 08:40:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/tags/menu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>http://localhost:1313/tags/profile/</link>
+      <pubDate>Thu, 08 Jan 2026 08:40:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/tags/profile/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TOML</title>
+      <link>http://localhost:1313/tags/toml/</link>
+      <pubDate>Thu, 08 Jan 2026 08:40:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/tags/toml/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Blog</title>

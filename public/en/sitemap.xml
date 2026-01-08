@@ -19,6 +19,22 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/en/posts/hugo-project-theme/</loc>
+    <lastmod>2026-01-07T12:20:00+09:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="http://localhost:1313/posts/hugo-customization/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/hugo-project-theme/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2026-01-07T12:20:00+09:00</lastmod>
     <changefreq>always</changefreq>

@@ -9,7 +9,17 @@
     <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
     <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
     <copyright>© 2026 GOODJINC</copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 12:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jan 2026 08:40:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo 블로그 만들기 (3): 언어 설정 및 메뉴 커스터마이징</title>
+      <link>http://localhost:1313/posts/hugo-customization/</link>
+      <pubDate>Thu, 08 Jan 2026 08:40:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/posts/hugo-customization/</guid>
+      <description>&lt;p&gt;지난 2편에서 Blowfish 테마를 적용하고 서버를 띄우는 것까지 성공했습니다. 하지만 화면에 보이는 건 기본 세팅된 간단한 화면 뿐이었죠.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-customization/feature.jpg" />
+    </item>
     
     <item>
       <title>Hugo 블로그 만들기 (2): 프로젝트 생성 및 Blowfish 테마 적용</title>
@@ -37,7 +47,7 @@
       <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>
       <author>hello@goodjinc.com (GOODJINC)</author>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;안녕하세요! 드디어 블로그를 시작하게 되었습니다. 🎉&lt;/p&gt;&#xA;&lt;p&gt;이곳은 제가 배우고 경험한 것들을 기록하고, 여러분과 함께 나누기 위해 만든 공간입니다.&lt;/p&gt;</description>
+      <description>&lt;p&gt;안녕하세요! 드디어 블로그를 시작하게 되었습니다. 🎉&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hello-world/feature.png" />
     </item>
     

@@ -1,6 +1,7 @@
 ---
-title: "Welcome to K92"
-description: "Welcome to K92"
+title: "Welcome to GOODJINC"
+description: "Welcome to GOODJINC Blog"
 ---
 
-Hello
+First, smile. First, sing. First, stand up. </br>
+And do not be afraid to love for the first time.
