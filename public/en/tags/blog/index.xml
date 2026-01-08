@@ -22,16 +22,6 @@
     </item>
     
     <item>
-      <title>Building a Hugo Blog (2): Creating a Project &amp; Applying the Blowfish Theme</title>
-      <link>http://localhost:1313/en/posts/hugo-project-theme/</link>
-      <pubDate>Wed, 07 Jan 2026 12:20:00 +0900</pubDate>
-      <author>hello@goodjinc.com (GOODJINC)</author>
-      <guid>http://localhost:1313/en/posts/hugo-project-theme/</guid>
-      <description>&lt;p&gt;In Part 1, we completed the installation of Hugo (Extended version) on the Windows environment. Now, let&amp;rsquo;s officially create a blog and apply the &lt;strong&gt;Blowfish&lt;/strong&gt; theme.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-project-theme/feature.jpg" />
-    </item>
-    
-    <item>
       <title>Hello world! 👋</title>
       <link>http://localhost:1313/en/posts/hello-world/</link>
       <pubDate>Mon, 05 Jan 2026 23:58:17 +0900</pubDate>

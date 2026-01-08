@@ -9,7 +9,17 @@
     <managingEditor>hello@goodjinc.com (GOODJINC)</managingEditor>
     <webMaster>hello@goodjinc.com (GOODJINC)</webMaster>
     <copyright>© 2026 GOODJINC</copyright>
-    <lastBuildDate>Thu, 08 Jan 2026 08:40:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jan 2026 18:20:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo 블로그 만들기 (4): 콘텐츠 작성과 마크다운 숏코드 활용</title>
+      <link>http://localhost:1313/posts/hugo-content-writing/</link>
+      <pubDate>Thu, 08 Jan 2026 18:20:00 +0900</pubDate>
+      <author>hello@goodjinc.com (GOODJINC)</author>
+      <guid>http://localhost:1313/posts/hugo-content-writing/</guid>
+      <description>&lt;p&gt;지난 시간까지 블로그의 뼈대를 세우고 예쁘게 꾸미는 작업을 마쳤습니다. 이제 이 멋진 집에 가구를 채워 넣을 시간입니다. 바로 **&amp;lsquo;콘텐츠 작성&amp;rsquo;**입니다.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hugo-content-writing/feature.jpg" />
+    </item>
     
     <item>
       <title>Hugo 블로그 만들기 (3): 언어 설정 및 메뉴 커스터마이징</title>

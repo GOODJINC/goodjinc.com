@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-08T08:40:00+09:00</lastmod>
+    <lastmod>2026-01-08T18:20:00+09:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,38 @@
       rel="alternate"
       hreflang="ko"
       href="http://localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/hugo-content-writing/</loc>
+    <lastmod>2026-01-08T18:20:00+09:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/hugo-content-writing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="http://localhost:1313/posts/hugo-content-writing/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-08T18:20:00+09:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko"
+      href="http://localhost:1313/posts/"
     />
   </url>
   <url>
@@ -32,22 +64,6 @@
       rel="alternate"
       hreflang="ko"
       href="http://localhost:1313/posts/hugo-customization/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-08T08:40:00+09:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="http://localhost:1313/posts/"
     />
   </url>
   <url>
