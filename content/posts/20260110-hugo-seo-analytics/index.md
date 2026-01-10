@@ -1,13 +1,21 @@
 ---
 title: "Hugo 블로그 만들기 (6): 검색 엔진 등록과 구글 애널리틱스 연결"
 slug: hugo-seo-analytics
-date: 2026-01-09T20:50:00+09:00
+date: 2026-01-10T10:50:00+09:00
 description: "내 블로그를 세상에 알리고 방문자 데이터를 분석하는 마지막 단계! 네이버·구글 검색 등록과 Google Analytics 4(GA4) 연결 방법을 상세히 다룹니다."
 series: ["Hugo 블로그 만들기"]
 series_order: 6
 categories: ["SEO", "Operation"]
-tags: ["Search Engine", "Google Search Console", "Naver Search Advisor", "Google Analytics", "GA4", "SEO"]
-draft: true
+tags:
+  [
+    "Search Engine",
+    "Google Search Console",
+    "Naver Search Advisor",
+    "Google Analytics",
+    "GA4",
+    "SEO",
+  ]
+draft: false
 # Thumbnail : https://pixabay.com/photos/digital-marketing-technology-1433427/
 ---
 
@@ -25,8 +33,8 @@ draft: true
 
 검색 엔진에 등록하기 전, 로봇이 내 사이트의 구조를 파악할 수 있는 지도가 필요합니다. Hugo는 빌드 시 자동으로 `sitemap.xml`을 생성합니다.
 
-* **확인 방법**: 배포된 주소 뒤에 `/sitemap.xml`을 붙여 접속해 봅니다.
-* **예시 주소**: `https://goodjinc.com/sitemap.xml`
+- **확인 방법**: 배포된 주소 뒤에 `/sitemap.xml`을 붙여 접속해 봅니다.
+- **예시 주소**: `https://goodjinc.com/sitemap.xml`
 
 ---
 
@@ -42,9 +50,9 @@ draft: true
 6. **사이트맵 제출**: [사이트 관리] > [요청] > [RSS 제출]에서 `index.xml`을, [사이트맵 제출] 메뉴에서 `sitemap.xml`을 입력 및 등록합니다.
 
 > [!TIP]
-> Hugo > Blowfish 블로그의 기본 URL에 대한 예시를 소개합니다. </br>
-> RSS : https://goodjinc.com/index.xml </br>
-> Sitemap : https://goodjinc.com/sitemap.xml
+> Hugo > Blowfish 블로그의 기본 URL에 대한 예시를 소개합니다.  
+> RSS : `https://goodjinc.com/index.xml`  
+> Sitemap : `https://goodjinc.com/sitemap.xml`
 
 ---
 
@@ -67,11 +75,13 @@ draft: true
 누가, 어디서, 어떤 글을 읽고 있는지 분석하려면 데이터 분석 도구가 필요합니다. Blowfish 테마는 구글 애널리틱스를 매우 쉽게 연결할 수 있는 기능을 내장하고 있습니다.
 
 ### ① GA4 측정 ID 발급
+
 1. [구글 애널리틱스](https://analytics.google.com/)에서 계정과 속성을 생성합니다.
 2. 데이터 스트림 설정에서 '웹'을 선택하고 내 블로그 주소를 입력합니다.
-3. 생성된 **'측정 ID' (G-XXXXXXXXXX 형식)**를 복사합니다.
+3. 생성된 **측정 ID** (`G-XXXXXXXXXX` 형식) 를 복사합니다.
 
 ### ② Blowfish 테마에 ID 적용
+
 프로젝트 루트의 `config/_default/hugo.toml` 파일을 열어 `googleAnalytics` 항목에 생성된 측정 ID를 입력합니다.
 
 ```toml
