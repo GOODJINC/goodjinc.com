@@ -1,0 +1,11 @@
+/* 게시글 본문 너비 설정 */
+.article-content {
+  max-width: 100% !important;
+}
+
+
+/*로고 사이즈 수정*/
+.logo {
+  max-width: 10rem;
+  max-height: 10rem;
+}

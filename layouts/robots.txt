@@ -1,0 +1,17 @@
+# 전체 로봇 설정
+User-agent: *
+{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
+Allow: /
+{{- else }}
+Disallow: /
+{{- end }}
+
+# Naver Yeti 설정
+User-agent: Yeti
+{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
+Allow: /
+{{- else }}
+Disallow: /
+{{- end }}
+
+Sitemap: {{ "sitemap.xml" | absURL }}

@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "EN"
+weight = 20
+title = "GOODJINC"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02 (Mon)"
+  logo = "img/logo_white.png"
+  secondaryLogo = "img/logo_black.png"
+  description = "GOODJINC’s Archive: Believing in the power of records."
+
+[params.author]
+  name = "GOODJINC"
+  email = "hello@goodjinc.com"
+  image = "img/author.jpg"
+  headline = "Little by little, one travels far"
+  bio = "Little by little, one travels far"
+  links = [
+    { email = "mailto:hello@goodjinc.com" },
+    { github = "https://github.com/goodjinc" },
+  ]

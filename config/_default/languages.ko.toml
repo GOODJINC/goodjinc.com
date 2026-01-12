@@ -1,0 +1,24 @@
+languageCode = "ko"
+languageName = "Korean"
+weight = 10
+title = "GOODJINC"
+
+[params]
+  displayName = "Korean"
+  isoCode = "ko"
+  rtl = false
+  dateFormat = "2006-01-02 (Mon)"
+  logo = "img/logo_white.png"
+  secondaryLogo = "img/logo_black.png"
+  description = "기록의 힘을 믿는 GOODJINC의 아카이브 공간입니다."
+
+[params.author]
+  name = "GOODJINC" # 작가명
+  email = "hello@goodjinc.com" # 작가 이메일
+  image = "img/author.jpg" # 작가 프로필 이미지
+  headline = "1%의 당신으로부터" # Homepage에서 표현되는 문장
+  bio = "1%의 당신으로부터" # 게시글 내 작가의 한마디에 표현되는 문장
+  links = [
+    { email = "mailto:hello@goodjinc.com" },
+    { github = "https://github.com/goodjinc" },
+  ]
