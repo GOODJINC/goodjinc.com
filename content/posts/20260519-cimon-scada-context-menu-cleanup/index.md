@@ -15,6 +15,8 @@ draft: false
 
 프로그램 자체는 삭제되었지만, Windows 레지스트리의 `HKEY_CLASSES_ROOT` 경로에 등록된 확장자 키들이 완전히 청소되지 않아 발생합니다.
 
+{{< figure src="img/context-menu-example.png" alt="마우스 오른쪽 클릭 후 보이는 컨텍스트 메뉴에 남아있는 찌꺼기 모습" >}}
+
 그래서 이번 시간에는 **레지스트리 파일 수정**만으로 빠르게 CIMON SCADA의 우클릭 찌꺼기 메뉴들을 지우거나 다시 복원하는 방법을 소개합니다.
 
 ---

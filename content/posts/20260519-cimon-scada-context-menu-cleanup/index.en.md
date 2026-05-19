@@ -16,6 +16,8 @@ Encountering these lingering context menu remnants can be highly frustrating. Ha
 
 This issue occurs because the extension keys registered under the `HKEY_CLASSES_ROOT` path in the Windows Registry are not completely cleared during uninstallation, even though the core program has been removed.
 
+{{< figure src="img/context-menu-example.png" alt="Leftover artifacts in the context menu after right-clicking" >}}
+
 In this guide, we will walk through how to quickly remove or restore these leftover CIMON SCADA context menu items simply by **modifying registry files**.
 
 
