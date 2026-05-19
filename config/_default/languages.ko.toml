@@ -1,5 +1,5 @@
-languageCode = "ko"
-languageName = "Korean"
+locale = "ko"
+label = "Korean"
 weight = 10
 title = "GOODJINC"
 
