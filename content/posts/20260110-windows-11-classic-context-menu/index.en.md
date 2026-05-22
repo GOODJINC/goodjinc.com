@@ -39,7 +39,7 @@ Windows Registry Editor Version 5.00
 
 **Download File**:
 
-- <a href="Enable-Classic-Context-Menu.reg" download="Enable-Classic-Context-Menu.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">
+- <a href="http://localhost:1313/posts/windows-11-classic-context-menu/Enable-Classic-Context-Menu.reg" download="Enable-Classic-Context-Menu.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">
     Download Classic Menu Fix
   </a>
 
@@ -61,7 +61,7 @@ Download File:
 
 **Download File**:
 
-- <a href="Restore-Windows11-Context-Menu.reg" download="Restore-Windows11-Context-Menu.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">
+- <a href="http://localhost:1313/posts/windows-11-classic-context-menu/Restore-Windows11-Context-Menu.reg" download="Restore-Windows11-Context-Menu.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">
     Restore Default Windows 11 Menu
   </a>
 

@@ -55,7 +55,7 @@ Windows Registry Editor Version 5.00
 
 **File Download**:
 
-- <a href="delete-cimon-scada-extensions.reg" download="delete-cimon-scada-extensions.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">Download CIMON SCADA Extension Removal File</a>
+- <a href="https://goodjinc.com/posts/windows-11-cimon-scada-context-menu-cleanup/delete-cimon-scada-extensions.reg" download="delete-cimon-scada-extensions.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">Download CIMON SCADA Extension Removal File</a>
 
 > [!TIP] **Action Required After Running the File**
 > After downloading and executing the file, please restart Windows Explorer by following the steps in [3. Applying Changes Immediately (Restarting File Explorer)](#restart-explorer).
@@ -88,7 +88,7 @@ Windows Registry Editor Version 5.00
 
 **File Download**:
 
-- <a href="restore-cimon-scada-extensions.reg" download="restore-cimon-scada-extensions.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">Download CIMON SCADA Extension Restoration File</a>
+- <a href="https://goodjinc.com/posts/windows-11-cimon-scada-context-menu-cleanup/restore-cimon-scada-extensions.reg" download="restore-cimon-scada-extensions.reg" class="btn btn-primary" style="text-decoration: none; display: inline-block;">Download CIMON SCADA Extension Restoration File</a>
 
 ---
 
