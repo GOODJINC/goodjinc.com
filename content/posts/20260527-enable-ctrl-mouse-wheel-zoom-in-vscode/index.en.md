@@ -41,4 +41,4 @@ Enabling this feature can greatly improve your workflow efficiency when presenti
 
 4. Return to your editor and scroll the mouse wheel up or down while holding down the `Ctrl` key to confirm that the font size changes in real time.
 
-{{< figure src="img/vscode-font-zoom-working.webp" alt="VS Code editor showing the font size zooming in and out with Ctrl + mouse wheel scroll" >}}
+{{< figure src="img/vscode-font-zoom-working.png" alt="VS Code editor showing the font size zooming in and out with Ctrl + mouse wheel scroll" >}}

@@ -41,4 +41,4 @@ draft: false
 
 4. 다시 작성 중인 코드로 돌아가서 `Ctrl` 키를 누른 채 마우스 휠을 위아래로 굴려 글꼴 크기가 실시간으로 변하는지 확인합니다.
 
-{{< figure src="img/vscode-font-zoom-working.webp" alt="Ctrl + 마우스 휠 조작으로 글꼴 크기가 확대 및 축소되는 VS Code 편집기 화면" >}}
+{{< figure src="img/vscode-font-zoom-working.png" alt="Ctrl + 마우스 휠 조작으로 글꼴 크기가 확대 및 축소되는 VS Code 편집기 화면" >}}
