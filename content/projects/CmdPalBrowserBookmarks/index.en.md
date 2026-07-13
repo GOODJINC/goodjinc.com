@@ -2,8 +2,8 @@
 title: "Browser Bookmarks for Command Palette"
 date: 2026-05-15
 draft: false
-description: "Browser Bookmarks for Command Palette is an extension for Microsoft PowerToys Command Palette that lets you search and open bookmarks saved in Edge, Chrome, and Firefox. It reads the bookmarks already registered in your browsers, so you do not need to add the same bookmarks again inside Command Palette. It supports browser profile selection, Korean initial consonant search, English/Korean UI, URL copy, and opening bookmarks in a new window."
-summary: "Browser Bookmarks for Command Palette is an extension for Microsoft PowerToys Command Palette that lets you search and open bookmarks saved in Edge, Chrome, and Firefox. It automatically integrates browser bookmarks so you can search them without registering them again, with support for multiple profiles, Korean initial consonant search, English/Korean UI, URL copy, and opening bookmarks in a new window."
+description: "Browser Bookmarks for Command Palette is a Microsoft PowerToys Command Palette extension for searching and opening bookmarks saved in Edge, Chrome, and Firefox. It reads existing browser bookmarks automatically and is available from the Microsoft Store and WinGet."
+summary: "Search and open Edge, Chrome, and Firefox bookmarks from PowerToys Command Palette, with installation through the Microsoft Store or WinGet."
 tags: ["C#", ".NET", "PowerToys", "Command Palette", "MSIX"]
 categories: ["Projects"]
 externalUrl: "https://github.com/GOODJINC/CmdPalBrowserBookmarks"
@@ -16,4 +16,8 @@ Browser Bookmarks for Command Palette is an extension that lets you search and o
 
 The extension supports per-browser profile selection, searching multiple profiles, Korean initial consonant search, English/Korean UI, opening bookmarks with the source browser, and copying URLs, titles, or Markdown links. Bookmark data is processed locally on the user's PC and is not sent to an external server.
 
-It is currently distributed through GitHub Releases, with Microsoft Store and WinGet registration in progress.
+It is available from the Microsoft Store and the Windows Package Manager (WinGet), as well as GitHub Releases.
+
+- [Install from the Microsoft Store](https://apps.microsoft.com/detail/9p8ftkqfzr0m)
+- WinGet: `winget install --id GOODJINC.CmdPalBrowserBookmarks`
+- [GitHub Releases](https://github.com/GOODJINC/CmdPalBrowserBookmarks/releases)
